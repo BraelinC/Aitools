@@ -34,4 +34,3 @@ Visit `/presenter`. Use Left/Right keys or on-screen Prev/Next.
 - Animations: fadeIn 0.3s; orbit stagger 0.06s; zoom spring {stiffness 120, damping 18}
 - Pricing line displays “As of {NEXT_PUBLIC_BUILD_DATE}`
 # SchoolPrez
-# Aitools
